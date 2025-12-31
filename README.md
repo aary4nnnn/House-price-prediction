@@ -38,6 +38,7 @@ The goal of this project is to predict the median house value using these featur
   <img width="1311" height="706" alt="image" src="https://github.com/user-attachments/assets/3d099bf7-73b8-4329-8a58-8ac2100eb707" />
 
 - The final model generalized well on unseen test data
+
   <img width="213" height="55" alt="image" src="https://github.com/user-attachments/assets/b30e1736-45b8-429d-a2fd-24ab4a989126" />
 
 ## Screenshots
